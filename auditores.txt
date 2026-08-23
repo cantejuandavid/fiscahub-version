@@ -1,13 +1,5 @@
-# FiscaHUB - lista de auditores autorizados (compuerta de b1355).
-#
-# Una linea por auditor: el MD5 EN HEXADECIMAL del correo de Microsoft 365 normalizado
-# (recortado y en minusculas). NUNCA correos en claro: este repositorio es publico.
-# La linea se genera con:   python _hash_correo.py <correo>
-#
-# Las lineas que empiezan por # son comentario.
-#
-# La linea TODOS desactiva la compuerta en TODAS las copias del libro. Es la salida de
-# emergencia: mientras este puesta, cualquier cuenta pasa. Quitarla es lo que enciende
-# el control de acceso.
 TODOS
-849a82088356f84e5bc607702d5cbb34   # dian.gov.co
+70eec598e621e378b56f09fee7571ba5
+0d84a02acb6c2c74b6cb315e1b5d4b4c
+3c1c5af05c154c3db84eddaec2951f6a
+849a82088356f84e5bc607702d5cbb34
