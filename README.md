@@ -12,8 +12,6 @@ compartida con un grupo pequeño de compañeros de trabajo.
   de documentos corporativa donde vive el instalador, el compartir anonimo esta
   deshabilitado, asi que ninguna URL de esa carpeta responde a un GET sin cuenta de la
   organizacion.
-- `auditores.txt` — la lista de acceso, por huella. La primera linea `TODOS` la deja
-  abierta a proposito.
 - `canal/` (en las ramas de canal) — las piezas de la actualizacion. Ver el README de
   esa carpeta.
 
