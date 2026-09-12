@@ -1,0 +1,6 @@
+# Las piezas del canal se sirven TAL CUAL por raw.githubusercontent.com y las lee un parser
+# escrito en VBA. Que git les cambie los saltos de linea no rompe nada -el sello es del texto ya
+# descifrado, y el decodificador de base64 ignora los espacios en blanco-, pero el byte que sale
+# del servidor debe ser el byte que escribio el generador: si algun dia hay que depurar por que una
+# pieza no cuadra, el ultimo sitio donde se quiere una sorpresa es en la conversion de git.
+canal/*.txt -text
