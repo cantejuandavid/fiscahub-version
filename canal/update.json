@@ -1,7 +1,7 @@
 {
  "build": "2026-09-12 b1698",
  "clave_ver": 1,
- "generado": "2026-09-12 12:10",
+ "generado": "2026-09-12 12:15",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
@@ -194,12 +194,12 @@
   },
   "UPD": {
    "archivo": "UPD.txt",
-   "bytes": 194259,
-   "bytes_canal": 76452,
+   "bytes": 197677,
+   "bytes_canal": 78012,
    "ext": "",
-   "extra": "4.32",
-   "lineas": 3595,
-   "sha256": "24908daad3d579e6ec7653df550dee0600502573013fde9fd56bf31ebc049ab6"
+   "extra": "4.33",
+   "lineas": 3645,
+   "sha256": "d50b24be0f389fc9c3fabe1bb75eaa947ea621e075e993db914baecb8d6592a7"
   },
   "X_MARCHIVO": {
    "archivo": "X_MARCHIVO.txt",

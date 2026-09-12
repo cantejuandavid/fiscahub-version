@@ -1,5 +1,5 @@
 build=2026-09-12 b1698
-generado=2026-09-12 12:10
+generado=2026-09-12 12:15
 clave_ver=1
 pieza=BAS|BAS.txt|17bbe096e3fe2bfaea39a8ef532901cb90009f960ce96f5985eff8fd3edb68fd|1942340|39908||
 pieza=CAMBIOS|CAMBIOS.txt|9939c4d2b6a301c33e11efee3e2b30065f8979f1ccbfab22692ba621998cbd30|119761|441||
@@ -22,7 +22,7 @@ pieza=P_roi_contrib|P_roi_contrib.txt|d69723ac19636903a71891b360c498d359ddafc09d
 pieza=P_roi_integra_contrib|P_roi_integra_contrib.txt|6ffb5244a2c33dd6d7168a85e842fe0e744d0365ef2ad939623a442544a08646|142038|18|odt|28270ec7
 pieza=P_roi_integra_tercero|P_roi_integra_tercero.txt|1e9b248e1663b70545336cb7885c1815e3058ecf28d752a847961c962bc2baec|141734|18|odt|e96bece9
 pieza=P_roi_tercero|P_roi_tercero.txt|dd9f634eee00eab7ee0da0d1a46a3ab06cb43ef4783538e2cf130c06a1a66f7b|286122|36|docx|a76cb451
-pieza=UPD|UPD.txt|24908daad3d579e6ec7653df550dee0600502573013fde9fd56bf31ebc049ab6|194259|3595||4.32
+pieza=UPD|UPD.txt|d50b24be0f389fc9c3fabe1bb75eaa947ea621e075e993db914baecb8d6592a7|197677|3645||4.33
 pieza=X_MARCHIVO|X_MARCHIVO.txt|24b3d8c9a0554129af3d52d6f6199b7edd0a45fc3304b45c525b78004410d67a|2324|62||
 pieza=X_MCATALOGO|X_MCATALOGO.txt|dfb85901997b697eb824b313d63f25b1c6026ffaa77f43b131284c5399771379|224517|923||
 pieza=X_MEXTRACTOR|X_MEXTRACTOR.txt|dcbf3ea07a460e6d0e878e7f33afaa329fb012209046d0ab3cfdde09b7f26dea|20412|540||
