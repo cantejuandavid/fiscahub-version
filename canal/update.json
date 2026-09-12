@@ -1,0 +1,295 @@
+{
+ "build": "2026-09-12 b1699",
+ "clave_ver": 1,
+ "generado": "2026-09-12 12:47",
+ "piezas": {
+  "BAS": {
+   "archivo": "BAS.txt",
+   "bytes": 1943862,
+   "bytes_canal": 581792,
+   "ext": "",
+   "extra": "",
+   "lineas": 39947,
+   "sha256": "e575b5458655878c33f65d77f616e385a60078166e64f3415aa9b76893eaefb2"
+  },
+  "CAMBIOS": {
+   "archivo": "CAMBIOS.txt",
+   "bytes": 119895,
+   "bytes_canal": 54476,
+   "ext": "",
+   "extra": "",
+   "lineas": 442,
+   "sha256": "425b64766dbe0188af9884d62887e251079937385be3d4f183fc7c345a22aeec"
+  },
+  "P_1811": {
+   "archivo": "P_1811.txt",
+   "bytes": 110518,
+   "bytes_canal": 96148,
+   "ext": "xlsx",
+   "extra": "f4a3409d",
+   "lineas": 14,
+   "sha256": "5d0177b61e70bb1939e27b10fca7e07c3f155e8ecae1392dbefb2b3f78dc459a"
+  },
+  "P_1814": {
+   "archivo": "P_1814.txt",
+   "bytes": 367830,
+   "bytes_canal": 308552,
+   "ext": "xlsx",
+   "extra": "080969e2",
+   "lineas": 46,
+   "sha256": "ea6a39d7ed5edb70d3dbe0ca850d9f98ac0fbd92ae7e63c5826fc3660f55938b"
+  },
+  "P_1839": {
+   "archivo": "P_1839.txt",
+   "bytes": 719594,
+   "bytes_canal": 117696,
+   "ext": "docx",
+   "extra": "79313e14",
+   "lineas": 90,
+   "sha256": "eefdae3ecab195416116a735ed233bbb0051b29bbb9075bd09b85a0dbc15249f"
+  },
+  "P_1840": {
+   "archivo": "P_1840.txt",
+   "bytes": 59662,
+   "bytes_canal": 53572,
+   "ext": "xlsx",
+   "extra": "92ef3670",
+   "lineas": 8,
+   "sha256": "27e0f9dfc553f957139cb80ae9ce162c3d1d918f4a8dfa1a8de6955f71ecb161"
+  },
+  "P_2221": {
+   "archivo": "P_2221.txt",
+   "bytes": 510606,
+   "bytes_canal": 317420,
+   "ext": "xlsx",
+   "extra": "abed071a",
+   "lineas": 64,
+   "sha256": "7816f2f7974290b7c1dc563b7f78c3ded3cd99898bbe2308e3265e0fb6b43709"
+  },
+  "P_2330": {
+   "archivo": "P_2330.txt",
+   "bytes": 27686,
+   "bytes_canal": 26604,
+   "ext": "xlsx",
+   "extra": "f1eeec10",
+   "lineas": 4,
+   "sha256": "f7649691aa7398916e063ecbc08aaecd6e21cd210e62263288f1efe814aa3ec7"
+  },
+  "P_2338": {
+   "archivo": "P_2338.txt",
+   "bytes": 70704,
+   "bytes_canal": 61684,
+   "ext": "xlsx",
+   "extra": "266af359",
+   "lineas": 9,
+   "sha256": "9516147ab059d003e864922ae7e714e944c862e94d8fc2088a110506505c0f46"
+  },
+  "P_2558": {
+   "archivo": "P_2558.txt",
+   "bytes": 74666,
+   "bytes_canal": 59060,
+   "ext": "xlsx",
+   "extra": "d964ee8b",
+   "lineas": 10,
+   "sha256": "ac6c46a8488ebad5580009305b4feec58d31fda806f8803eca5612fd227a92ca"
+  },
+  "P_2571": {
+   "archivo": "P_2571.txt",
+   "bytes": 87720,
+   "bytes_canal": 81596,
+   "ext": "xlsx",
+   "extra": "78c5ed91",
+   "lineas": 11,
+   "sha256": "54d9140a7287bbddcc7057370c10d21cdece2848a02bf5044b9b75d0ce251a36"
+  },
+  "P_903": {
+   "archivo": "P_903.txt",
+   "bytes": 264414,
+   "bytes_canal": 64528,
+   "ext": "docx",
+   "extra": "6a9a56ec",
+   "lineas": 34,
+   "sha256": "03f81bb46b8dfd222d7b5288b32a0eb731442803a2828c6baa3bede029f6abdd"
+  },
+  "P_acta": {
+   "archivo": "P_acta.txt",
+   "bytes": 214692,
+   "bytes_canal": 64976,
+   "ext": "docx",
+   "extra": "c81aab4b",
+   "lineas": 27,
+   "sha256": "0653343020bd46799e6dafd570e9e20f35d15b9788262eea59f72ed2d8686976"
+  },
+  "P_auto_archivo_integra": {
+   "archivo": "P_auto_archivo_integra.txt",
+   "bytes": 188822,
+   "bytes_canal": 28596,
+   "ext": "odt",
+   "extra": "79f3f215",
+   "lineas": 24,
+   "sha256": "dda5db4c446635f873ae79b2e2ea558af775e31483df8272d33ebf68ba84e66b"
+  },
+  "P_auto_com_contrib": {
+   "archivo": "P_auto_com_contrib.txt",
+   "bytes": 195760,
+   "bytes_canal": 34072,
+   "ext": "odt",
+   "extra": "4b99a23b",
+   "lineas": 25,
+   "sha256": "5ded76f8e324c2684dcd1d44f43952175cad114ec9298023c96ac0083cbaab5f"
+  },
+  "P_auto_com_tercero": {
+   "archivo": "P_auto_com_tercero.txt",
+   "bytes": 195744,
+   "bytes_canal": 34076,
+   "ext": "odt",
+   "extra": "bc3c6d60",
+   "lineas": 25,
+   "sha256": "b4c23df982a5cfac16abd19be5bf43ea833a2597b8897441e6ddfb3ff9742147"
+  },
+  "P_const": {
+   "archivo": "P_const.txt",
+   "bytes": 226388,
+   "bytes_canal": 68016,
+   "ext": "docx",
+   "extra": "8794824a",
+   "lineas": 29,
+   "sha256": "5794cafb90e93d4537722106e7bb4a208f98c8072f92324ebaac11264e09b5c6"
+  },
+  "P_roi_contrib": {
+   "archivo": "P_roi_contrib.txt",
+   "bytes": 319054,
+   "bytes_canal": 71576,
+   "ext": "docx",
+   "extra": "881d4815",
+   "lineas": 40,
+   "sha256": "d69723ac19636903a71891b360c498d359ddafc09d09dd9e5ebd071bf816e694"
+  },
+  "P_roi_integra_contrib": {
+   "archivo": "P_roi_integra_contrib.txt",
+   "bytes": 142038,
+   "bytes_canal": 27520,
+   "ext": "odt",
+   "extra": "28270ec7",
+   "lineas": 18,
+   "sha256": "6ffb5244a2c33dd6d7168a85e842fe0e744d0365ef2ad939623a442544a08646"
+  },
+  "P_roi_integra_tercero": {
+   "archivo": "P_roi_integra_tercero.txt",
+   "bytes": 141734,
+   "bytes_canal": 27352,
+   "ext": "odt",
+   "extra": "e96bece9",
+   "lineas": 18,
+   "sha256": "1e9b248e1663b70545336cb7885c1815e3058ecf28d752a847961c962bc2baec"
+  },
+  "P_roi_tercero": {
+   "archivo": "P_roi_tercero.txt",
+   "bytes": 286122,
+   "bytes_canal": 66548,
+   "ext": "docx",
+   "extra": "a76cb451",
+   "lineas": 36,
+   "sha256": "dd9f634eee00eab7ee0da0d1a46a3ab06cb43ef4783538e2cf130c06a1a66f7b"
+  },
+  "UPD": {
+   "archivo": "UPD.txt",
+   "bytes": 198746,
+   "bytes_canal": 78572,
+   "ext": "",
+   "extra": "4.33",
+   "lineas": 3661,
+   "sha256": "2a0019515f568f544972bd81b94447c731c0685491eaa58ea5e726589802aaac"
+  },
+  "X_MARCHIVO": {
+   "archivo": "X_MARCHIVO.txt",
+   "bytes": 2324,
+   "bytes_canal": 1304,
+   "ext": "",
+   "extra": "",
+   "lineas": 62,
+   "sha256": "24b3d8c9a0554129af3d52d6f6199b7edd0a45fc3304b45c525b78004410d67a"
+  },
+  "X_MCATALOGO": {
+   "archivo": "X_MCATALOGO.txt",
+   "bytes": 224517,
+   "bytes_canal": 64404,
+   "ext": "",
+   "extra": "",
+   "lineas": 923,
+   "sha256": "dfb85901997b697eb824b313d63f25b1c6026ffaa77f43b131284c5399771379"
+  },
+  "X_MEXTRACTOR": {
+   "archivo": "X_MEXTRACTOR.txt",
+   "bytes": 20412,
+   "bytes_canal": 6860,
+   "ext": "",
+   "extra": "",
+   "lineas": 540,
+   "sha256": "dcbf3ea07a460e6d0e878e7f33afaa329fb012209046d0ab3cfdde09b7f26dea"
+  },
+  "X_MINFLATE": {
+   "archivo": "X_MINFLATE.txt",
+   "bytes": 10736,
+   "bytes_canal": 3884,
+   "ext": "",
+   "extra": "",
+   "lineas": 313,
+   "sha256": "bcdfe1ed931032565d329f4b3e72d2528cc4ec47d97c2d8902af6385e81b20f1"
+  },
+  "X_MMAIN": {
+   "archivo": "X_MMAIN.txt",
+   "bytes": 25398,
+   "bytes_canal": 10076,
+   "ext": "",
+   "extra": "",
+   "lineas": 585,
+   "sha256": "c14e5453a27619199afe669a382128dab815d1eb94684662e87b5c9d7f8b710e"
+  },
+  "X_MODFH_ACTOS": {
+   "archivo": "X_MODFH_ACTOS.txt",
+   "bytes": 171910,
+   "bytes_canal": 47968,
+   "ext": "",
+   "extra": "",
+   "lineas": 3793,
+   "sha256": "72d490eedb5f55a1402ac7e990a70726037377fc1e75cad6a59eb8883a8fe2e7"
+  },
+  "X_MODFH_CRUCES": {
+   "archivo": "X_MODFH_CRUCES.txt",
+   "bytes": 795685,
+   "bytes_canal": 225332,
+   "ext": "",
+   "extra": "",
+   "lineas": 15326,
+   "sha256": "eaf448c7377be5b65d3d2b4f095ef3ddb2e9ca5d4f9fe20edeaea5f4f4b5aa58"
+  },
+  "X_MODFH_FORMATOS": {
+   "archivo": "X_MODFH_FORMATOS.txt",
+   "bytes": 267637,
+   "bytes_canal": 76848,
+   "ext": "",
+   "extra": "",
+   "lineas": 6031,
+   "sha256": "8450783a987dc0d64ead08e24a86aa100e662fabffd0a049a3a484119a175078"
+  },
+  "X_MODFH_SANCIONES": {
+   "archivo": "X_MODFH_SANCIONES.txt",
+   "bytes": 332546,
+   "bytes_canal": 99788,
+   "ext": "",
+   "extra": "",
+   "lineas": 6364,
+   "sha256": "e5b3d6aeff38f7d46f52f5f4b1f4ff56659fdef1add6229e54579f1c18232170"
+  },
+  "X_MPDFTEXT": {
+   "archivo": "X_MPDFTEXT.txt",
+   "bytes": 54130,
+   "bytes_canal": 17896,
+   "ext": "",
+   "extra": "",
+   "lineas": 1248,
+   "sha256": "e7c7ddb2f83376ef5bfe42fb254fa4c53791982be7aadd39a7a458e9c4fab92d"
+  }
+ }
+}
