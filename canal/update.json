@@ -1,16 +1,16 @@
 {
- "build": "2026-09-13 b1716",
+ "build": "2026-09-13 b1717",
  "clave_ver": 1,
- "generado": "2026-09-13 18:22",
+ "generado": "2026-09-13 18:27",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 1958128,
-   "bytes_canal": 587044,
+   "bytes": 1958763,
+   "bytes_canal": 587260,
    "ext": "",
    "extra": "",
-   "lineas": 40228,
-   "sha256": "1b0df52992bc0b12c616d181cf46f312cadf79f571018c9ff84cb677359b152d"
+   "lineas": 40241,
+   "sha256": "7d6a7f78f3dc28e893edc46d2ed6dda5e5cce5a206949f31318ee565f1fab23a"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
@@ -194,12 +194,12 @@
   },
   "UPD": {
    "archivo": "UPD.txt",
-   "bytes": 220815,
-   "bytes_canal": 87512,
+   "bytes": 222937,
+   "bytes_canal": 88680,
    "ext": "",
-   "extra": "4.40",
-   "lineas": 4028,
-   "sha256": "114c6e3db1be0567edb8e57855d7a349ff942b3d47d313b3fc18a63e74de8018"
+   "extra": "4.41",
+   "lineas": 4060,
+   "sha256": "17f013fa5eb5b13ddcc5b548ae7d28dfdbc776b8f960eeb4f7e8131e9c408bb2"
   },
   "X_MARCHIVO": {
    "archivo": "X_MARCHIVO.txt",
