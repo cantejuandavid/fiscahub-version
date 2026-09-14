@@ -1,7 +1,7 @@
 {
  "build": "2026-09-14 b1733",
  "clave_ver": 1,
- "generado": "2026-09-14 17:49",
+ "generado": "2026-09-14 17:51",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
@@ -14,12 +14,12 @@
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 123066,
+   "bytes": 123053,
    "bytes_canal": 55956,
    "ext": "",
    "extra": "",
    "lineas": 466,
-   "sha256": "edd385bab215730abf41dbe172ca7c0ca1fde29891431e07d8829f42189aedba"
+   "sha256": "7425f28c58ff29f27c6df52af4547ab657fb9465ddd3e5bde583da34fc3514f7"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
