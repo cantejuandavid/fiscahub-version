@@ -1,25 +1,25 @@
 {
- "build": "2026-09-16 b1759",
+ "build": "2026-09-16 b1760",
  "clave_ver": 1,
- "generado": "2026-09-16 17:20",
+ "generado": "2026-09-16 17:25",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2015597,
-   "bytes_canal": 605144,
+   "bytes": 2015826,
+   "bytes_canal": 605240,
    "ext": "",
    "extra": "",
-   "lineas": 41395,
-   "sha256": "c537bbdf6fdfa26845b36cfd4231e49bb7d281dde451f11716e9f91db6a834f2"
+   "lineas": 41398,
+   "sha256": "44e6aff50dfb0a0bf6d6317d943816c761e88ead409341b93483562fee365088"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 126448,
-   "bytes_canal": 57344,
+   "bytes": 126571,
+   "bytes_canal": 57388,
    "ext": "",
    "extra": "",
-   "lineas": 492,
-   "sha256": "63114c47a7bc9f5347ff22f1f6aab0d50053b3ed79bc8691ed0e9e4624645fb4"
+   "lineas": 493,
+   "sha256": "ada1c19b07b2169caeea74206a4f3daa266dfef6ba04f173fcde4d4ba9f777c2"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -266,12 +266,12 @@
   },
   "X_MODFH_FORMATOS": {
    "archivo": "X_MODFH_FORMATOS.txt",
-   "bytes": 278117,
-   "bytes_canal": 80404,
+   "bytes": 281353,
+   "bytes_canal": 81456,
    "ext": "",
    "extra": "",
-   "lineas": 6227,
-   "sha256": "77fda8c402b40bf5f7568c5325c4ab4b3ee2bbb304b87928b85a89ca205fc252"
+   "lineas": 6274,
+   "sha256": "a371c5f8e86abbae9dd2d62af8c2444ef7dceb111fcf4b2889bde957b5bf8b47"
   },
   "X_MODFH_SANCIONES": {
    "archivo": "X_MODFH_SANCIONES.txt",
