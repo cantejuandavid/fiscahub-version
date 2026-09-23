@@ -1,25 +1,25 @@
 {
- "build": "2026-09-23 b1894",
+ "build": "2026-09-23 b1895",
  "clave_ver": 1,
- "generado": "2026-09-23 11:20",
+ "generado": "2026-09-23 11:23",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2267757,
-   "bytes_canal": 678096,
+   "bytes": 2267989,
+   "bytes_canal": 678216,
    "ext": "",
    "extra": "",
-   "lineas": 46456,
-   "sha256": "cb347e9967b35b032e1c7f2028255e73bd2edfeaad190fee7208dc49111c67cd"
+   "lineas": 46459,
+   "sha256": "9d4c06c7bab6e08882d2e437aad50355f9c02c110af0a1e24647a4667d4afc85"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 144333,
-   "bytes_canal": 64880,
+   "bytes": 144461,
+   "bytes_canal": 64920,
    "ext": "",
    "extra": "",
-   "lineas": 617,
-   "sha256": "518e2252f0b55a2427a2e6172698d254d7d0af61d2312e22f7f9efc74d6ac9d6"
+   "lineas": 618,
+   "sha256": "92ae279453afcdfd97f52cd7b4f131b3663e3b06aa36f9bd6d887fb3771001f6"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
