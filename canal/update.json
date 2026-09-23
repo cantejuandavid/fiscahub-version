@@ -1,25 +1,25 @@
 {
- "build": "2026-09-23 b1880",
+ "build": "2026-09-23 b1881",
  "clave_ver": 1,
- "generado": "2026-09-23 09:02",
+ "generado": "2026-09-23 09:09",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2319508,
-   "bytes_canal": 701364,
+   "bytes": 2319627,
+   "bytes_canal": 701424,
    "ext": "",
    "extra": "",
-   "lineas": 46845,
-   "sha256": "acc2fc3f6bce094ad67f8808b73002d423b12905fa65d302e21a77dcd5996a65"
+   "lineas": 46846,
+   "sha256": "78a18aaa6c5732cdb2d88a126d11c9ee1521b2b185bd15d2bf52390cefdaf6a4"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 142855,
-   "bytes_canal": 64212,
+   "bytes": 142981,
+   "bytes_canal": 64264,
    "ext": "",
    "extra": "",
-   "lineas": 606,
-   "sha256": "f7ad9b203ecca5c0b3042a42e9449d01dcc081153977313493d022070a0f8480"
+   "lineas": 607,
+   "sha256": "f210a0c05b8b8c0b1c9104937eb6be5bc4054178484c14fbc8c92a00be92edcf"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -158,39 +158,39 @@
   },
   "P_roi_contrib": {
    "archivo": "P_roi_contrib.txt",
-   "bytes": 319114,
-   "bytes_canal": 71808,
+   "bytes": 319178,
+   "bytes_canal": 72168,
    "ext": "docx",
-   "extra": "3bd4808a",
+   "extra": "0d7c59b1",
    "lineas": 40,
-   "sha256": "5e5690884e873bf726c269a4175a487d3768d48be25ff8ee44b8c6cc7d294229"
+   "sha256": "4ec1de5c72e2d3c7de5c8bcccfaa84044186eafed79edbe452d518d88709d41c"
   },
   "P_roi_integra_contrib": {
    "archivo": "P_roi_integra_contrib.txt",
-   "bytes": 142102,
-   "bytes_canal": 27620,
+   "bytes": 141874,
+   "bytes_canal": 27436,
    "ext": "odt",
-   "extra": "df5ab2aa",
+   "extra": "f9baa31c",
    "lineas": 18,
-   "sha256": "3b62356c462694730231c25762d2a3b33d48e91c4265da55be566ca9046fe7c0"
+   "sha256": "96030d3c93d93c31fba49f51b4c6601567b39a564f39768419804513f96e44f5"
   },
   "P_roi_integra_tercero": {
    "archivo": "P_roi_integra_tercero.txt",
-   "bytes": 141798,
-   "bytes_canal": 27440,
+   "bytes": 141922,
+   "bytes_canal": 27352,
    "ext": "odt",
-   "extra": "1bd9ab2f",
+   "extra": "e008d042",
    "lineas": 18,
-   "sha256": "bc630150cc8095818dd955e770bcd4bce697b2db9a8ce92e26ded757b911ae5a"
+   "sha256": "d61b0e3669bc5565d00571e64ded31ad22d54ed4140dffb1a4fcdf34beef89b6"
   },
   "P_roi_tercero": {
    "archivo": "P_roi_tercero.txt",
-   "bytes": 286186,
-   "bytes_canal": 66760,
+   "bytes": 287502,
+   "bytes_canal": 66396,
    "ext": "docx",
-   "extra": "0c20a386",
+   "extra": "ff81bd18",
    "lineas": 36,
-   "sha256": "21c722062cd53bacedf40223c96d29fdb04c655916fcf12747194a78d3bf07ab"
+   "sha256": "31e120936b35712742db0dbdd07eac9a77e7a95007096ddc53fe5f1df44cb63c"
   },
   "UPD": {
    "archivo": "UPD.txt",
@@ -248,12 +248,12 @@
   },
   "X_MODFH_ACTOS": {
    "archivo": "X_MODFH_ACTOS.txt",
-   "bytes": 207751,
-   "bytes_canal": 58524,
+   "bytes": 208664,
+   "bytes_canal": 58740,
    "ext": "",
    "extra": "",
-   "lineas": 4331,
-   "sha256": "2682d8d1264854427b6102611824fb046eb1ae42d0f712eaaca266d6f8ad2c98"
+   "lineas": 4345,
+   "sha256": "279c942b8e727b5292ea495b99df0674ad9e08ab9ea7dabd8205d702f64734dc"
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
