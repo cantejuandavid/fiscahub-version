@@ -1,25 +1,25 @@
 {
- "build": "2026-09-23 b1884",
+ "build": "2026-09-23 b1885",
  "clave_ver": 1,
- "generado": "2026-09-23 09:23",
+ "generado": "2026-09-23 09:25",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2322453,
-   "bytes_canal": 702416,
+   "bytes": 2322545,
+   "bytes_canal": 702448,
    "ext": "",
    "extra": "",
-   "lineas": 46909,
-   "sha256": "e7fda931d487a85a2541cd58744f24557e1d191a08e4e6fd1be62d8b6f822591"
+   "lineas": 46910,
+   "sha256": "002e13bf98ef43ee5675b680ff1cc4a20e48ebbf7c2ba2eaf17b4101dbd242f6"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 143190,
-   "bytes_canal": 64364,
+   "bytes": 143312,
+   "bytes_canal": 64412,
    "ext": "",
    "extra": "",
-   "lineas": 609,
-   "sha256": "13e404507f9b1b753ae2bf5a6d8ba80286ae960cd7ed63b538ef06ea5ab0ebe8"
+   "lineas": 610,
+   "sha256": "fa1f61e2c9506e883c9a9bf072a745d91ae1834db76aab7f6ae43df05b223827"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -176,21 +176,21 @@
   },
   "P_roi_integra_tercero": {
    "archivo": "P_roi_integra_tercero.txt",
-   "bytes": 141922,
-   "bytes_canal": 27352,
+   "bytes": 142098,
+   "bytes_canal": 27496,
    "ext": "odt",
-   "extra": "e008d042",
+   "extra": "39c1f694",
    "lineas": 18,
-   "sha256": "d61b0e3669bc5565d00571e64ded31ad22d54ed4140dffb1a4fcdf34beef89b6"
+   "sha256": "2dbaeb268f9c77a256dec1fe25a7c8646ab0d729aae15253d5c870f6e73ff452"
   },
   "P_roi_tercero": {
    "archivo": "P_roi_tercero.txt",
-   "bytes": 287502,
-   "bytes_canal": 66396,
+   "bytes": 288188,
+   "bytes_canal": 66376,
    "ext": "docx",
-   "extra": "ff81bd18",
-   "lineas": 36,
-   "sha256": "31e120936b35712742db0dbdd07eac9a77e7a95007096ddc53fe5f1df44cb63c"
+   "extra": "fbc40875",
+   "lineas": 37,
+   "sha256": "44ebc2c8d3363dd9b6818203a1a30cee50ed382b3f1ce4943dca236acebf425f"
   },
   "UPD": {
    "archivo": "UPD.txt",
