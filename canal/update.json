@@ -1,16 +1,16 @@
 {
- "build": "2026-09-23 b1882",
+ "build": "2026-09-23 b1883",
  "clave_ver": 1,
- "generado": "2026-09-23 09:14",
+ "generado": "2026-09-23 09:17",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2321690,
-   "bytes_canal": 702088,
+   "bytes": 2321923,
+   "bytes_canal": 702212,
    "ext": "",
    "extra": "",
-   "lineas": 46899,
-   "sha256": "bafccbdc4030710a713d3fdec9bf1a129d1387a50d641ead44ac19ac1ebb5a6b"
+   "lineas": 46901,
+   "sha256": "cf1451f8100d9cbbfef28cbff660984bdff08cce8a61342ec850cb0b613d0a33"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
