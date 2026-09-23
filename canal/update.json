@@ -1,25 +1,25 @@
 {
- "build": "2026-09-23 b1919",
+ "build": "2026-09-23 b1920",
  "clave_ver": 1,
- "generado": "2026-09-23 14:40",
+ "generado": "2026-09-23 14:56",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2316288,
-   "bytes_canal": 694716,
+   "bytes": 2316355,
+   "bytes_canal": 694748,
    "ext": "",
    "extra": "",
-   "lineas": 47413,
-   "sha256": "dc3bf8c01df94b4cf4e56917ba6f5337470e43a9c9ac7e1a4eaba484348da0fd"
+   "lineas": 47414,
+   "sha256": "328bd93fabb72d351ae49c368c9ae572395b612b2b17e1cb381de742812346f3"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 147561,
-   "bytes_canal": 66248,
+   "bytes": 147686,
+   "bytes_canal": 66324,
    "ext": "",
    "extra": "",
-   "lineas": 640,
-   "sha256": "a990b18ca5f74edeab7788aa200c9fa8bba6ac3b043e5b34953e3b8c739f0a10"
+   "lineas": 641,
+   "sha256": "0e829238eafa92d5916aded0d65b3701c69a3506a0b64208bdff428b71203060"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -159,11 +159,11 @@
   "P_roi_contrib": {
    "archivo": "P_roi_contrib.txt",
    "bytes": 319178,
-   "bytes_canal": 72168,
+   "bytes_canal": 72164,
    "ext": "docx",
-   "extra": "0d7c59b1",
+   "extra": "105f25da",
    "lineas": 40,
-   "sha256": "4ec1de5c72e2d3c7de5c8bcccfaa84044186eafed79edbe452d518d88709d41c"
+   "sha256": "a81e791dc1a9db7c01862a29bcbf02f2b59e0648072e56518ea7a96525da4639"
   },
   "P_roi_integra_contrib": {
    "archivo": "P_roi_integra_contrib.txt",
@@ -188,9 +188,9 @@
    "bytes": 288188,
    "bytes_canal": 66376,
    "ext": "docx",
-   "extra": "fbc40875",
+   "extra": "84b7f447",
    "lineas": 37,
-   "sha256": "44ebc2c8d3363dd9b6818203a1a30cee50ed382b3f1ce4943dca236acebf425f"
+   "sha256": "d7efbeb8dc5305cb98ecff6a69f05f0cc9cef027277017d0808fd05e7118579f"
   },
   "UPD": {
    "archivo": "UPD.txt",
@@ -248,12 +248,12 @@
   },
   "X_MODFH_ACTOS": {
    "archivo": "X_MODFH_ACTOS.txt",
-   "bytes": 209460,
+   "bytes": 209462,
    "bytes_canal": 58996,
    "ext": "",
    "extra": "",
-   "lineas": 4359,
-   "sha256": "76f5ffb5c7a1f52418b4d5e5d83ecdc9d82ac82fb1776a2c824cb3e1ea10f754"
+   "lineas": 4360,
+   "sha256": "a711535c39012229d8d681b78fecb373c276140116d8259444352f6bde6c99be"
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
