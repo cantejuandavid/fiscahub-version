@@ -1,25 +1,25 @@
 {
- "build": "2026-09-23 b1928",
+ "build": "2026-09-23 b1929",
  "clave_ver": 1,
- "generado": "2026-09-23 16:52",
+ "generado": "2026-09-23 17:05",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2328518,
-   "bytes_canal": 698820,
+   "bytes": 2331385,
+   "bytes_canal": 699872,
    "ext": "",
    "extra": "",
-   "lineas": 47694,
-   "sha256": "740d3c947188f7dd9792476263f891f13500a1ef80aa7ad844a3207d997e0f34"
+   "lineas": 47751,
+   "sha256": "e43bd1d53f1c14c2fdb536d34067d7553903347503f78c99d91b3615ac6b8a21"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 148653,
-   "bytes_canal": 66720,
+   "bytes": 148766,
+   "bytes_canal": 66760,
    "ext": "",
    "extra": "",
-   "lineas": 649,
-   "sha256": "d626392b3cbec7c4e73870521ff22b5e50f3fedf0946eac813a8d2567f3447ed"
+   "lineas": 650,
+   "sha256": "e9b95cd342473b965cdd12c944c1d35208cb85ffab8a50e601d717ff5a39b2c6"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -248,12 +248,12 @@
   },
   "X_MODFH_ACTOS": {
    "archivo": "X_MODFH_ACTOS.txt",
-   "bytes": 213106,
-   "bytes_canal": 59780,
+   "bytes": 214808,
+   "bytes_canal": 60428,
    "ext": "",
    "extra": "",
-   "lineas": 4419,
-   "sha256": "bbbf6f1882457f00e73fca3827ec8c9a7068be3484bd33ff35f9f6de4c5b668d"
+   "lineas": 4445,
+   "sha256": "dc670eb9d4fa3328c38130cdde1eafe313c24e2f4a1f690e572af8272af42c96"
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
