@@ -4,7 +4,8 @@ Publica el sello de build de FiscaHUB y, en las ramas de canal, las piezas de su
 actualizacion.
 
 FiscaHUB es una herramienta personal, construida como un libro de Excel con macros y
-compartida con un grupo pequeño de compañeros de trabajo.
+compartida con un grupo pequeño de compañeros de trabajo. Todos los derechos
+reservados: ver `LICENSE`.
 
 - `version.txt` — una linea con el sello del ultimo build. El libro lo consulta al
   abrir, con una peticion HTTP asincrona, para avisar si hay algo mas nuevo. No
