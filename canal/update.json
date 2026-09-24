@@ -1,16 +1,16 @@
 {
- "build": "2026-09-24 b1974",
+ "build": "2026-09-24 b1975",
  "clave_ver": 1,
- "generado": "2026-09-24 16:12",
+ "generado": "2026-09-24 16:34",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2466286,
-   "bytes_canal": 739064,
+   "bytes": 2466403,
+   "bytes_canal": 739124,
    "ext": "",
    "extra": "",
-   "lineas": 50574,
-   "sha256": "5b30e72798a47ec30aa367b15079568c0f0a669971c6ad2792931a23b179a11a"
+   "lineas": 50578,
+   "sha256": "58c8dbdd7d44f5ecbce93fa7f54c29fb07e9bb0f9efa41701afcb3802a509699"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
@@ -257,12 +257,12 @@
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
-   "bytes": 908841,
-   "bytes_canal": 256792,
+   "bytes": 909481,
+   "bytes_canal": 256956,
    "ext": "",
    "extra": "",
-   "lineas": 17372,
-   "sha256": "7df081f4bb297751e4410e84aa7b68f40907bed3a5af53254e0b43e581802d47"
+   "lineas": 17382,
+   "sha256": "1e10ebf7b84e47327a5e30d5b26ff65f93bf58e863c6d86afc43032ebde5f68c"
   },
   "X_MODFH_FORMATOS": {
    "archivo": "X_MODFH_FORMATOS.txt",
