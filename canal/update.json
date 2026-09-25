@@ -1,25 +1,25 @@
 {
- "build": "2026-09-25 b2008",
+ "build": "2026-09-25 b2009",
  "clave_ver": 1,
- "generado": "2026-09-25 14:52",
+ "generado": "2026-09-25 15:03",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2544032,
-   "bytes_canal": 764176,
+   "bytes": 2549584,
+   "bytes_canal": 765552,
    "ext": "",
    "extra": "",
-   "lineas": 52181,
-   "sha256": "9865eb5c447b19b7409eefc5223513f85c9eae36f9d2ab77924a557ae2947273"
+   "lineas": 52280,
+   "sha256": "7dad6a9121948f44de3f204acff37f26c6d3474fb591c43f679f2ed0e4e0d0fd"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 158543,
-   "bytes_canal": 70560,
+   "bytes": 158650,
+   "bytes_canal": 70628,
    "ext": "",
    "extra": "",
-   "lineas": 717,
-   "sha256": "27a8caf0272939a39681409f630a1c32feafe9b6111ba068d62642c038537e71"
+   "lineas": 718,
+   "sha256": "808b349c41a0184f0efdd9975d49358f39564e65fa70ac6a97dbe620e0860821"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -156,6 +156,15 @@
    "lineas": 29,
    "sha256": "5794cafb90e93d4537722106e7bb4a208f98c8072f92324ebaac11264e09b5c6"
   },
+  "P_llamada": {
+   "archivo": "P_llamada.txt",
+   "bytes": 358472,
+   "bytes_canal": 145260,
+   "ext": "docx",
+   "extra": "fe326a2e",
+   "lineas": 45,
+   "sha256": "02ef085b511ce422526e8988c8fc031288e209dda9d053de57a50065a7ad9db4"
+  },
   "P_roi_contrib": {
    "archivo": "P_roi_contrib.txt",
    "bytes": 319178,
@@ -248,12 +257,12 @@
   },
   "X_MODFH_ACTOS": {
    "archivo": "X_MODFH_ACTOS.txt",
-   "bytes": 216063,
-   "bytes_canal": 60836,
+   "bytes": 228010,
+   "bytes_canal": 63092,
    "ext": "",
    "extra": "",
-   "lineas": 4465,
-   "sha256": "2d19bc63922b87eaf0cfc6bb1c2c06bfbf8efc0427ea4abab54ea7dcdc0c50c7"
+   "lineas": 4707,
+   "sha256": "0485e3943582888683b58c612e0f6e1e7d1cd5f1d32e6a22f49b37456f955861"
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
