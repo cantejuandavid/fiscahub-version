@@ -1,25 +1,25 @@
 {
- "build": "2026-09-25 b2012",
+ "build": "2026-09-25 b2013",
  "clave_ver": 1,
- "generado": "2026-09-25 15:32",
+ "generado": "2026-09-25 15:36",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2551365,
-   "bytes_canal": 766120,
+   "bytes": 2551532,
+   "bytes_canal": 766196,
    "ext": "",
    "extra": "",
-   "lineas": 52307,
-   "sha256": "d29ce87d5c0e42afb56e42207beff5f5c118205205571d2a0abcc5fa2e23cb91"
+   "lineas": 52308,
+   "sha256": "9e8bc788e666c629a598fe812ccceb49833f755cd8af6c8f47dfea2598c93bbe"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 158874,
-   "bytes_canal": 70720,
+   "bytes": 159005,
+   "bytes_canal": 70772,
    "ext": "",
    "extra": "",
-   "lineas": 720,
-   "sha256": "1d023f0a58fe7e70d4a7064ed0c44a516a9e2048730f56b213900e09dcaada39"
+   "lineas": 721,
+   "sha256": "9c6fad2f4e68391de9d9f0f731fa2a6c0f588a67815b53b2aca6547426d5af9d"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -158,12 +158,12 @@
   },
   "P_llamada": {
    "archivo": "P_llamada.txt",
-   "bytes": 358472,
-   "bytes_canal": 145260,
+   "bytes": 293728,
+   "bytes_canal": 82292,
    "ext": "docx",
-   "extra": "fe326a2e",
-   "lineas": 45,
-   "sha256": "02ef085b511ce422526e8988c8fc031288e209dda9d053de57a50065a7ad9db4"
+   "extra": "a3a211cb",
+   "lineas": 37,
+   "sha256": "cb2a0e4105e4fb9db30c6fb397954c87822621907ca123f4da849f1c888063be"
   },
   "P_roi_contrib": {
    "archivo": "P_roi_contrib.txt",
