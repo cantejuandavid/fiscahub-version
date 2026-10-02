@@ -1,25 +1,25 @@
 {
- "build": "2026-10-01 b2156",
+ "build": "2026-10-02 b2157",
  "clave_ver": 1,
- "generado": "2026-10-01 15:23",
+ "generado": "2026-10-02 06:24",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2583309,
-   "bytes_canal": 759676,
+   "bytes": 2583419,
+   "bytes_canal": 759720,
    "ext": "",
    "extra": "",
-   "lineas": 55651,
-   "sha256": "21ba92dd1382f09fba24e271f3b12aed65a0694e79bcc96fd8fb4401c8b8d051"
+   "lineas": 55653,
+   "sha256": "11da16ea7077ce1a01efc61e722cdf1456516809ae05c4340e2bb77e4f5f0f5d"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 175928,
-   "bytes_canal": 78056,
+   "bytes": 176064,
+   "bytes_canal": 78092,
    "ext": "",
    "extra": "",
-   "lineas": 849,
-   "sha256": "8713d3c82c385c5fbf954400a39196b9a8054c11b598910994f2aba1cdae2b34"
+   "lineas": 850,
+   "sha256": "a42e4d76c22cef698e6e1a76b5578427d5da3f20f90cc292540bf7617e9ef498"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -87,11 +87,11 @@
   "P_2558": {
    "archivo": "P_2558.txt",
    "bytes": 74666,
-   "bytes_canal": 59060,
+   "bytes_canal": 59044,
    "ext": "xlsx",
-   "extra": "d964ee8b",
+   "extra": "9bb035ea",
    "lineas": 10,
-   "sha256": "ac6c46a8488ebad5580009305b4feec58d31fda806f8803eca5612fd227a92ca"
+   "sha256": "f0864302f60f0409eee3473ce12e2a096b905abadb076fbc9bedc1b3cbbd26a4"
   },
   "P_2571": {
    "archivo": "P_2571.txt",
