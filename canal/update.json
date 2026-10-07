@@ -1,25 +1,25 @@
 {
- "build": "2026-10-06 b2212",
+ "build": "2026-10-07 b2214",
  "clave_ver": 1,
- "generado": "2026-10-06 11:39",
+ "generado": "2026-10-07 15:51",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2700627,
-   "bytes_canal": 793888,
+   "bytes": 2700986,
+   "bytes_canal": 794056,
    "ext": "",
    "extra": "",
-   "lineas": 57820,
-   "sha256": "4bd8851eef68c736ef6dce22143ba58123762a3a70ec2c3d3d3e4a5ca34f2d12"
+   "lineas": 57823,
+   "sha256": "21bc7f1a3701d911b4f47ec3a35bf6aeb3046927deb60844a7b804b533846bf9"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 183048,
-   "bytes_canal": 81136,
+   "bytes": 183325,
+   "bytes_canal": 81260,
    "ext": "",
    "extra": "",
-   "lineas": 895,
-   "sha256": "cf41b6b87e440750de4efc3c429aa5246074b026cce3504ed3ec371a5170e418"
+   "lineas": 897,
+   "sha256": "40346c50de37e47797ab05296208b8397d769f8b5de3e3e20df5da586d0315dd"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -248,12 +248,12 @@
   },
   "X_MCATALOGO": {
    "archivo": "X_MCATALOGO.txt",
-   "bytes": 224610,
-   "bytes_canal": 64444,
+   "bytes": 224672,
+   "bytes_canal": 64472,
    "ext": "",
    "extra": "",
    "lineas": 923,
-   "sha256": "243758787dd0b3999b3c8c623f66767743214673132fae5b94aac9add56a36b3"
+   "sha256": "8f54c8099b5060f4499cb227d9e18fe17961c4b6e1bc6872bb1d8452982a9a7c"
   },
   "X_MEXTRACTOR": {
    "archivo": "X_MEXTRACTOR.txt",
@@ -293,21 +293,21 @@
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
-   "bytes": 981974,
+   "bytes": 981973,
    "bytes_canal": 274452,
    "ext": "",
    "extra": "",
    "lineas": 18841,
-   "sha256": "47d9c5d448faa93c2d3425e57b13fe9bda271e47db19bb2609c6b35a7c544ff4"
+   "sha256": "a36dc84597ac7677205084a3cfc139f7c74f027d6c307ba8f6fa6b995b691047"
   },
   "X_MODFH_FORMATOS": {
    "archivo": "X_MODFH_FORMATOS.txt",
-   "bytes": 370860,
-   "bytes_canal": 107212,
+   "bytes": 375425,
+   "bytes_canal": 108752,
    "ext": "",
    "extra": "",
-   "lineas": 8723,
-   "sha256": "6f880bed49558ab021ed73995fe3ed86fa4a4eb3f691bb28eb96f1c56990d751"
+   "lineas": 8819,
+   "sha256": "1ccba9ad12c88db66bf9c59a0aa1b3562459ebaffd83725cef1b5ad2fdf2bc48"
   },
   "X_MODFH_SANCIONES": {
    "archivo": "X_MODFH_SANCIONES.txt",
