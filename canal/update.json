@@ -1,25 +1,25 @@
 {
- "build": "2026-10-07 b2214",
+ "build": "2026-10-07 b2215",
  "clave_ver": 1,
- "generado": "2026-10-07 15:51",
+ "generado": "2026-10-07 16:51",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2700986,
-   "bytes_canal": 794056,
+   "bytes": 2701621,
+   "bytes_canal": 794220,
    "ext": "",
    "extra": "",
-   "lineas": 57823,
-   "sha256": "21bc7f1a3701d911b4f47ec3a35bf6aeb3046927deb60844a7b804b533846bf9"
+   "lineas": 57838,
+   "sha256": "cba0b0c674ecb5533a28b78637ea3fbc6c661e49ec2f3c40ea50852f0199a184"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 183325,
-   "bytes_canal": 81260,
+   "bytes": 183468,
+   "bytes_canal": 81304,
    "ext": "",
    "extra": "",
-   "lineas": 897,
-   "sha256": "40346c50de37e47797ab05296208b8397d769f8b5de3e3e20df5da586d0315dd"
+   "lineas": 898,
+   "sha256": "39bf34cea66999e85f076145a95684a4c65503b7045f369bfb48b3a95951cb94"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -248,12 +248,12 @@
   },
   "X_MCATALOGO": {
    "archivo": "X_MCATALOGO.txt",
-   "bytes": 224672,
-   "bytes_canal": 64472,
+   "bytes": 224894,
+   "bytes_canal": 64512,
    "ext": "",
    "extra": "",
-   "lineas": 923,
-   "sha256": "8f54c8099b5060f4499cb227d9e18fe17961c4b6e1bc6872bb1d8452982a9a7c"
+   "lineas": 924,
+   "sha256": "4215cbbdcdcfc05e41da04c226ccb6b72a6595b6bd537d973fe396ca6079d20e"
   },
   "X_MEXTRACTOR": {
    "archivo": "X_MEXTRACTOR.txt",
