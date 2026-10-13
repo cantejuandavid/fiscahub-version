@@ -1,25 +1,25 @@
 {
- "build": "2026-10-13 b2244",
+ "build": "2026-10-13 b2245",
  "clave_ver": 1,
- "generado": "2026-10-13 10:51",
+ "generado": "2026-10-13 11:57",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2819048,
-   "bytes_canal": 823748,
+   "bytes": 2819723,
+   "bytes_canal": 823916,
    "ext": "",
    "extra": "",
-   "lineas": 60811,
-   "sha256": "fa1d81ab7f553e98add3f919c94fc16df094dee079a0810a2d73d9034d3b38ed"
+   "lineas": 60819,
+   "sha256": "be24c6ce1632e3d1bfcac25df097304e0160dd7b75ea4ce1f4a004dadca20630"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 187738,
-   "bytes_canal": 83080,
+   "bytes": 187880,
+   "bytes_canal": 83144,
    "ext": "",
    "extra": "",
-   "lineas": 923,
-   "sha256": "36d5258f3af039b6c0fe5ea49955651a5b75576affd6dc847f7c13a6e08c46d4"
+   "lineas": 924,
+   "sha256": "c9da7171ab64413963837db5dd6bbc6b65a82da80f8cd07559a878d1d7919be5"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -158,12 +158,12 @@
   },
   "P_const": {
    "archivo": "P_const.txt",
-   "bytes": 226388,
-   "bytes_canal": 68016,
+   "bytes": 226852,
+   "bytes_canal": 68120,
    "ext": "docx",
-   "extra": "8794824a",
+   "extra": "faa58200",
    "lineas": 29,
-   "sha256": "5794cafb90e93d4537722106e7bb4a208f98c8072f92324ebaac11264e09b5c6"
+   "sha256": "4ebb4027cbdda2334dd520a857bb746f2fe83c5723ace139510f467ca6faf04f"
   },
   "P_llamada": {
    "archivo": "P_llamada.txt",
@@ -284,12 +284,12 @@
   },
   "X_MODFH_ACTOS": {
    "archivo": "X_MODFH_ACTOS.txt",
-   "bytes": 237519,
-   "bytes_canal": 65132,
+   "bytes": 238790,
+   "bytes_canal": 65448,
    "ext": "",
    "extra": "",
-   "lineas": 5013,
-   "sha256": "6104b01b0b03725b1f479ae2bba75be5fee718daf983b2a29018b3d981930a58"
+   "lineas": 5038,
+   "sha256": "a9ed6ec7fff7c549070b392518a12f7b3462d5bd8e7974ee3bfd8fbd9e4849de"
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
