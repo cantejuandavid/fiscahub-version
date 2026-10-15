@@ -1,25 +1,25 @@
 {
- "build": "2026-10-15 b2270",
+ "build": "2026-10-15 b2280",
  "clave_ver": 1,
- "generado": "2026-10-15 08:16",
+ "generado": "2026-10-15 18:20",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2888248,
-   "bytes_canal": 844960,
+   "bytes": 2896420,
+   "bytes_canal": 848180,
    "ext": "",
    "extra": "",
-   "lineas": 62211,
-   "sha256": "ccaa504ffac842525ec8e83fa1c3c250edc1af0aa7f909d5600e3f988bbe403a"
+   "lineas": 62348,
+   "sha256": "b964dac74be2a44ca356466ec6540eba89e46386dac462bc9ab2040f92076917"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 191300,
-   "bytes_canal": 84556,
+   "bytes": 193244,
+   "bytes_canal": 85292,
    "ext": "",
    "extra": "",
-   "lineas": 946,
-   "sha256": "fd2ca084f07bf08535cbb96d4eb973270da3d3875987d03928bcaae8f3892c2c"
+   "lineas": 955,
+   "sha256": "bb054885ad3b945b8c9de1cda29eab7ab3a9a2840be872f0d9e175c2aee69db0"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -284,21 +284,21 @@
   },
   "X_MODFH_ACTOS": {
    "archivo": "X_MODFH_ACTOS.txt",
-   "bytes": 238790,
+   "bytes": 238792,
    "bytes_canal": 65448,
    "ext": "",
    "extra": "",
-   "lineas": 5038,
-   "sha256": "a9ed6ec7fff7c549070b392518a12f7b3462d5bd8e7974ee3bfd8fbd9e4849de"
+   "lineas": 5039,
+   "sha256": "05c55bbbcea914cde16fe56b0d100f9ee7da06c98f71c689ed79e7f93605178f"
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
-   "bytes": 1006245,
-   "bytes_canal": 281328,
+   "bytes": 1006877,
+   "bytes_canal": 281620,
    "ext": "",
    "extra": "",
-   "lineas": 19479,
-   "sha256": "4be622ac6f2a378b1fdea94e6ec64c45412f4de8f9f6e87e553e949e3b67bde2"
+   "lineas": 19490,
+   "sha256": "175cfb374ee0e1876769df2f959561464488252a6b17eaf96ad0eeec858433ed"
   },
   "X_MODFH_FORMATOS": {
    "archivo": "X_MODFH_FORMATOS.txt",
@@ -311,12 +311,12 @@
   },
   "X_MODFH_SANCIONES": {
    "archivo": "X_MODFH_SANCIONES.txt",
-   "bytes": 339707,
-   "bytes_canal": 102100,
+   "bytes": 343297,
+   "bytes_canal": 103312,
    "ext": "",
    "extra": "",
-   "lineas": 6809,
-   "sha256": "876d8f44b46931020b19c2375e49398a789023be920eb59ff98351d95c51ffad"
+   "lineas": 6874,
+   "sha256": "148cd2ed9b1f28d2d708494a487896c777a606ec750053f8a4e63229f2a0fe95"
   },
   "X_MPDFTEXT": {
    "archivo": "X_MPDFTEXT.txt",
