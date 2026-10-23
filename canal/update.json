@@ -1,7 +1,7 @@
 {
  "build": "2026-10-23 b2360",
  "clave_ver": 1,
- "generado": "2026-10-23 18:03",
+ "generado": "2026-10-23 18:04",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
@@ -14,12 +14,12 @@
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 202572,
-   "bytes_canal": 89444,
+   "bytes": 202704,
+   "bytes_canal": 89504,
    "ext": "",
    "extra": "",
-   "lineas": 1013,
-   "sha256": "0b829625a0059c4d6b3465578cf85230967a965dac2ad94fcc82dfb65d54d247"
+   "lineas": 1014,
+   "sha256": "7cc0b98247d3aa9f6e75040e6dbe6eb11a62dee78282c9079de476d636477321"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
