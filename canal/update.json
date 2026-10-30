@@ -1,25 +1,25 @@
 {
- "build": "2026-10-30 b2458",
+ "build": "2026-10-30 b2459",
  "clave_ver": 1,
- "generado": "2026-10-30 10:08",
+ "generado": "2026-10-30 13:52",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2326491,
-   "bytes_canal": 692872,
+   "bytes": 2326687,
+   "bytes_canal": 692948,
    "ext": "",
    "extra": "",
-   "lineas": 52284,
-   "sha256": "980a0d5fdd2ce9f0caafc5268b3f1bd1b1098a1289521de9610a4a34efc9d75c"
+   "lineas": 52285,
+   "sha256": "6aaafda3ffda607586dbfd14581c8581a75d81dd1f1045763faecde808f8b92e"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 213735,
-   "bytes_canal": 94140,
+   "bytes": 213841,
+   "bytes_canal": 94192,
    "ext": "",
    "extra": "",
-   "lineas": 1087,
-   "sha256": "3889d58fb07db8d25aef7d331499ec728a49a652bb99f7f95d7eb3104c95cc9d"
+   "lineas": 1088,
+   "sha256": "7f2ed077944dd335fd1f174e73768f54a4d2c7d77f5bdaf3b9af8d9d8528923a"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -230,12 +230,12 @@
   },
   "UPD": {
    "archivo": "UPD.txt",
-   "bytes": 252153,
-   "bytes_canal": 100732,
+   "bytes": 254907,
+   "bytes_canal": 101664,
    "ext": "",
-   "extra": "4.54",
-   "lineas": 4502,
-   "sha256": "ff56b6e25945deef0cff7cd1a3f227cbf16b08ff43099299fc072de11b5d22b5"
+   "extra": "4.55",
+   "lineas": 4548,
+   "sha256": "5d6f7523e7bd403e5261c4b6c0b3b2242a1133cbab6ec5116cb05b9d42a7d497"
   },
   "X_MARCHIVO": {
    "archivo": "X_MARCHIVO.txt",
