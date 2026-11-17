@@ -1,25 +1,25 @@
 {
- "build": "2026-11-17 b2544",
+ "build": "2026-11-17 b2548",
  "clave_ver": 1,
- "generado": "2026-11-17 13:54",
+ "generado": "2026-11-17 15:53",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2496665,
-   "bytes_canal": 742692,
+   "bytes": 2498716,
+   "bytes_canal": 743484,
    "ext": "",
    "extra": "",
-   "lineas": 55905,
-   "sha256": "51e77344dcc045a7b1886bf5045fcfb87b0a34a318310dd0d707cd2e76f75ced"
+   "lineas": 55957,
+   "sha256": "05c394f763639fe824e3f173768eb37df61c6921b93367265efffcde61a245bb"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 228205,
-   "bytes_canal": 100028,
+   "bytes": 229153,
+   "bytes_canal": 100364,
    "ext": "",
    "extra": "",
-   "lineas": 1152,
-   "sha256": "1df9e9d1370ca2a562745b008a35069d41192a84edbf7c990506b757111e92d6"
+   "lineas": 1156,
+   "sha256": "6e1df7d0d3b364da5eeae93005b0be8732fb3bdb0433ddac90b67e19c7db339b"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -131,12 +131,12 @@
   },
   "P_auto_archivo_integra": {
    "archivo": "P_auto_archivo_integra.txt",
-   "bytes": 189006,
-   "bytes_canal": 28716,
+   "bytes": 239922,
+   "bytes_canal": 40180,
    "ext": "odt",
-   "extra": "b14fa13a",
-   "lineas": 24,
-   "sha256": "b4a2874186694c6a89785ec3f4e2a2666dd41d0b5dd981d600a63c941b97956a"
+   "extra": "2c790ba2",
+   "lineas": 30,
+   "sha256": "502ca9153a147f23fdbef59d492913a90a9b0575fdc4c781fef941a80697eb6a"
   },
   "P_auto_com_contrib": {
    "archivo": "P_auto_com_contrib.txt",
@@ -293,12 +293,12 @@
   },
   "X_MODFH_ACTOS": {
    "archivo": "X_MODFH_ACTOS.txt",
-   "bytes": 481360,
-   "bytes_canal": 118356,
+   "bytes": 482632,
+   "bytes_canal": 118720,
    "ext": "",
    "extra": "",
-   "lineas": 9404,
-   "sha256": "478262b68b6df583daa7a9427d24a6516e6060c36d7c93bf57f52cb95efc1e8f"
+   "lineas": 9429,
+   "sha256": "57c78b06b366560b58466d8d39f5441097e8457a41ef401d200f2106fd38943b"
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
@@ -311,12 +311,12 @@
   },
   "X_MODFH_FORMATOS": {
    "archivo": "X_MODFH_FORMATOS.txt",
-   "bytes": 760561,
-   "bytes_canal": 225908,
+   "bytes": 761988,
+   "bytes_canal": 226240,
    "ext": "",
    "extra": "",
-   "lineas": 15638,
-   "sha256": "d13eeac12602af174eb5967be6795ba31f164bf641011a136df91f74b5738fad"
+   "lineas": 15669,
+   "sha256": "ca26a56a69e4068d3eeb0ccad5b94b768f91989fccedaad74ea777031c5d7013"
   },
   "X_MODFH_SANCIONES": {
    "archivo": "X_MODFH_SANCIONES.txt",
