@@ -1,25 +1,25 @@
 {
- "build": "2026-11-19 b2587",
+ "build": "2026-11-20 b2588",
  "clave_ver": 1,
- "generado": "2026-11-19 18:09",
+ "generado": "2026-11-20 09:23",
  "piezas": {
   "BAS": {
    "archivo": "BAS.txt",
-   "bytes": 2574962,
-   "bytes_canal": 763380,
+   "bytes": 2578650,
+   "bytes_canal": 764344,
    "ext": "",
    "extra": "",
-   "lineas": 57436,
-   "sha256": "ebd35932558111b90b4761f3850f8061acc59068242f9e38b1199a599f364722"
+   "lineas": 57520,
+   "sha256": "9964e4c67c316c0415e0f8d37db06f0d37dbe7e07782bf926289214b1eb79f68"
   },
   "CAMBIOS": {
    "archivo": "CAMBIOS.txt",
-   "bytes": 239381,
-   "bytes_canal": 104480,
+   "bytes": 239968,
+   "bytes_canal": 104720,
    "ext": "",
    "extra": "",
-   "lineas": 1193,
-   "sha256": "921241c90bd5c297cb82d20b8227f170b8840fcf256026f2bedfb1e239c271b0"
+   "lineas": 1194,
+   "sha256": "ca58dcf67e83413c46c1afcb3fe4f26caeec04559ce50ff26662f9ee7465aa20"
   },
   "P_1811": {
    "archivo": "P_1811.txt",
@@ -257,12 +257,12 @@
   },
   "X_MCATALOGO": {
    "archivo": "X_MCATALOGO.txt",
-   "bytes": 255102,
-   "bytes_canal": 70244,
+   "bytes": 255662,
+   "bytes_canal": 70432,
    "ext": "",
    "extra": "",
    "lineas": 1058,
-   "sha256": "1f9c7e0f00c46a990af09f93a9f480b7dc587716dd7ce65ed90ba266af7dcf9d"
+   "sha256": "219ad37e92ee6c58e8906917c93a46b9dbf56c64cc558b34575e32b371882614"
   },
   "X_MEXTRACTOR": {
    "archivo": "X_MEXTRACTOR.txt",
@@ -302,12 +302,12 @@
   },
   "X_MODFH_CRUCES": {
    "archivo": "X_MODFH_CRUCES.txt",
-   "bytes": 1744443,
-   "bytes_canal": 494036,
+   "bytes": 1764316,
+   "bytes_canal": 497652,
    "ext": "",
    "extra": "",
-   "lineas": 34304,
-   "sha256": "d517f4c81b655aaf7995ac1c234f56257bf73d23458d40880934ce2301fa6189"
+   "lineas": 34624,
+   "sha256": "90091a51ea36b8a02bfd987ef32e0b98b1d89e53ca88fdaa6ffd046d30b39ded"
   },
   "X_MODFH_FORMATOS": {
    "archivo": "X_MODFH_FORMATOS.txt",
